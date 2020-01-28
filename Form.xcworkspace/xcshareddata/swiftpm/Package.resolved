@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Extensions",
+        "repositoryURL": "/Users/user/Repos/Modules/Extensions",
+        "state": {
+          "branch": null,
+          "revision": "72bddaeee2e374bef20ba13b7e4fb123db28005b",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
